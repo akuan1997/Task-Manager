@@ -110,7 +110,3 @@ Followed RESTful principles with appropriate HTTP methods and status codes.
 ## 📄 License
 
 MIT
-
----
-
-*This project was developed as part of my backend development portfolio to demonstrate proficiency in Node.js, Express, and MongoDB.*
